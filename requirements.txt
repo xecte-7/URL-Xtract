@@ -1,0 +1,5 @@
+argpars
+requests
+urllib3
+bs4
+colored
