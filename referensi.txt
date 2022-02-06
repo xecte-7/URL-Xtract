@@ -1,0 +1,6 @@
+https://www.geeksforgeeks.org/extract-all-the-urls-from-the-webpage-using-python/
+https://docs.python.org/3/howto/argparse.html
+https://stackoverflow.com/questions/10667960/python-requests-throwing-sslerror
+https://stackoverflow.com/questions/27981545/suppress-insecurerequestwarning-unverified-https-request-is-being-made-in-pytho
+https://www.w3schools.com/tags/att_href.asp
+https://www.w3schools.com/tags/att_src.asp
