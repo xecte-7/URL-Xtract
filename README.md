@@ -1,23 +1,17 @@
-# URL-Xtract
-*Single page URL scrapper tool coded by Muhammad Rizky [Dr-3AM]*
-*This tool writed on Python3*
+# URL-XTRACT
+**Scrapping Tool** - *for extracting URL in a webpage*
 
-### Download or clone the repository
-*(If you don't have git installed, then you can clone this repo via "Code" button above and download it as a compressed archive file)*
-*(If you do have git installed, clone this repo with below command)*
-> git clone https://github.com/dr-3am/URL-Extract
+*Coded by Muhammad Rizky [XECTE-7]*
 
 ### Installation
-*(If you have multiple Python version installed, it is recommended to installing it by specific Python version)*
-> python -m pip install -r requirements.txt
- *(If you have only one Python version installed, then it safe to install the module this way)*
+*(Cloning this repository)*
+> git clone https://github.com/xecte-7/URL-Xtract
+
+*(Entering directory)*
+> cd URL-Xtract
+
+*(Installing dependencies/requirements)*
 > pip install -r requirements.txt
 
-### Show Help
-> python url-extract.py -h
-
-### Usage
-> python url-extract.py --url https://site.com/
-
-### Save Result
-> python url-extract.py --url https://site.com/ --output file_name
+*(Running the program)*
+> python url-xtract.py
