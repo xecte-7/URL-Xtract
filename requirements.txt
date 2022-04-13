@@ -1,5 +1,4 @@
-argparse
-requests
-urllib3
-bs4
-colored
+requests==2.26.0
+colored==1.4.3
+bs4==4.10.0
+urllib3==1.26.7
